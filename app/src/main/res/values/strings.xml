@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="crytop_exchange">Crytop Exchange</string>
+    <string name="coin_name">Coin Name</string>
+    <string name="price">Price:</string>
+    <string name="change_percent_24_hour">Change Percent 24 Hour:</string>
+</resources>
